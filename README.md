@@ -6,12 +6,12 @@
   <p align="center">
     This assignment consists of building a grid-based framework (similar to bootstrap) that includes some basic functionality necessary to build a website.</p>
     <br />
-    <a href="https://github.com/kazumaki/grid-framework/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/EdSacasa/framework.io/"><strong>Explore the docs »</strong></a>
     <br />
     ·
-    <a href="https://github.com/EdSacasa/grid-framework/issues">Report Bug</a>
+    <a href="https://github.com/EdSacasa/framework.io/issues">Report Bug</a>
     ·
-    <a href="https://github.com/EdSacasa/grid-framework/issues">Request Feature</a>
+    <a href="https://github.com/EdSacasa/framework.io/issues">Request Feature</a>
   </p>
 </p>
 
@@ -63,7 +63,7 @@ Contributions are what make the open source community such an amazing place to b
 Ed Sacasa - (https://github.com/EdSacasa) </br>
 Kazumaki - (https://github.com/kazumaki) 
 
-Project Link: [https://github.com/EdSacasa/grid-framework](https://github.com/EdSacasa/grid-framework)
+Project Link: [https://github.com/EdSacasa/framework.io/](https://github.com/EdSacasa/framework.io/)
 
 
 
